@@ -1,2 +1,393 @@
 API Error: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
 
+
+Workout Plan
+
+Goal: Lose weight
+Level: Beginner
+Equipment: none
+Time: 30 minutes
+Days per week: 3
+Focus: Full Body, Cardio
+
+Day 1 - Full Body
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+Day 2 - Cardio
+Jump rope - 10 min
+Running - 15 min
+
+Day 3 - Strength
+Dumbbell curls - 3x10
+Lunges - 3x12
+
+
+
+Workout Plan
+
+Goal: Lose Weight
+Level: Beginner
+Equipment: none
+Time: 30 minutes
+Days per week: 3
+Focus: Cardio
+
+Day 1 - Full Body
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+Day 2 - Cardio
+Jump rope - 10 min
+Running - 15 min
+
+Day 3 - Strength
+Dumbbell curls - 3x10
+Lunges - 3x12
+
+
+
+Workout Plan
+
+Goal: Build Muscle
+Level: Intermediate
+Equipment: Dumbbells
+Time: 45 minutes
+Days per week: 4
+Focus: Lower Body, Upper Body
+
+Day 1 - Full Body
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+Day 2 - Cardio
+Jump rope - 10 min
+Running - 15 min
+
+Day 3 - Strength
+Dumbbell curls - 3x10
+Lunges - 3x12
+
+
+
+Workout Plan
+
+Goal: Build Muscle
+Level: Intermediate
+Equipment: Dumbbells
+Time: 45 minutes
+Days per week: 5
+Focus: Full Body, Cardio
+
+Day 1 - Full Body
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+Day 2 - Cardio
+Jump rope - 10 min
+Running - 15 min
+
+Day 3 - Strength
+Dumbbell curls - 3x10
+Lunges - 3x12
+
+
+
+Workout Plan
+
+Goal: Lose Weight
+Level: Beginner
+Equipment: none
+Time: 50 minutes
+Days per week: 5
+Focus: Full Body, Cardio
+
+Day 1 - Full Body
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+Day 2 - Cardio
+Jump rope - 10 min
+Running - 15 min
+
+Day 3 - Strength
+Dumbbell curls - 3x10
+Lunges - 3x12
+
+
+
+Workout Plan
+
+Goal: Lose Weight
+Level: Beginner
+Equipment: none
+Time: 50 minutes
+Days per week: 2
+Focus: Full Body, Cardio
+
+Day 1 - Full Body
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+Day 2 - Cardio
+Jump rope - 10 min
+Running - 15 min
+
+Day 3 - Strength
+Dumbbell curls - 3x10
+Lunges - 3x12
+
+
+
+Workout Plan
+
+Goal: Build Muscle
+Level: Intermediate
+Equipment: Dumbbells
+Time: 50 minutes
+Days per week: 5
+Focus: Full Body, Core
+
+Day 1 - Full Body
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+Day 2 - Cardio
+Jump rope - 10 min
+Running - 15 min
+
+Day 3 - Strength
+Dumbbell curls - 3x10
+Lunges - 3x12
+
+
+
+Workout Plan
+
+Goal: Lose Weight
+Level: Beginner
+Equipment: none
+Time: 69 minutes
+Days per week: 6
+Focus: Full Body, Cardio
+
+Day 1 - Full Body
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+Day 2 - Cardio
+Jump rope - 10 min
+Running - 15 min
+
+Day 3 - Strength
+Dumbbell curls - 3x10
+Lunges - 3x12
+
+
+
+Workout Plan
+
+Goal: Lose Weight
+Level: Beginner
+Equipment: none
+Time: 60 minutes
+Days per week: 5
+Focus: Cardio, Full Body
+
+### Day 1
+Jump rope - 10 min
+Running - 15 min
+
+### Day 2
+Jump rope - 10 min
+Running - 15 min
+
+### Day 3
+Jump rope - 10 min
+Running - 15 min
+
+### Day 4
+Jump rope - 10 min
+Running - 15 min
+
+### Day 5
+Jump rope - 10 min
+Running - 15 min
+
+
+
+Workout Plan
+
+Goal: Build Muscle
+Level: Intermediate
+Equipment: Dumbbells
+Time: 60 minutes
+Days per week: 5
+Focus: Full Body, Core
+
+### Day 1
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+### Day 2
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+### Day 3
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+### Day 4
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+### Day 5
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+
+
+Workout Plan
+
+Goal: Build Muscle
+Level: Intermediate
+Equipment: Dumbbells
+Time: 65 minutes
+Days per week: 5
+Focus: Core, Full Body
+
+### Day 1
+Plank - 3x30 sec
+Sit-ups - 3x15
+Russian twists - 3x20
+
+### Day 2
+Plank - 3x30 sec
+Sit-ups - 3x15
+Russian twists - 3x20
+
+### Day 3
+Plank - 3x30 sec
+Sit-ups - 3x15
+Russian twists - 3x20
+
+### Day 4
+Plank - 3x30 sec
+Sit-ups - 3x15
+Russian twists - 3x20
+
+### Day 5
+Plank - 3x30 sec
+Sit-ups - 3x15
+Russian twists - 3x20
+
+
+
+Workout Plan
+
+Goal: Lose Weight
+Level: Beginner
+Equipment: none
+Time: 30 minutes
+Days per week: 4
+Focus: Cardio, Full Body
+
+Day 1 - Full Body
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+Day 2 - Cardio
+Jump rope - 10 min
+Running - 15 min
+
+Day 3 - Strength
+Dumbbell curls - 3x10
+Lunges - 3x12
+
+
+
+Workout Plan
+
+Goal: Build Muscle
+Level: Intermediate
+Equipment: Dumbbells
+Time: 60 minutes
+Days per week: 3
+Focus: Full Body
+
+Day 1 - Full Body
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+Day 2 - Cardio
+Jump rope - 10 min
+Running - 15 min
+
+Day 3 - Strength
+Dumbbell curls - 3x10
+Lunges - 3x12
+
+
+
+Workout Plan
+
+Goal: Build Muscle
+Level: Intermediate
+Equipment: Dumbbells
+Time: 60 minutes
+Days per week: 3
+Focus: Full Body
+
+Day 1 - Full Body
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+Day 2 - Cardio
+Jump rope - 10 min
+Running - 15 min
+
+Day 3 - Strength
+Dumbbell curls - 3x10
+Lunges - 3x12
+
+
+
+Workout Plan
+
+Goal: Lose Weight
+Level: Beginner
+Equipment: Dumbbells
+Time: 45 minutes
+Days per week: 3
+Focus: Core, Cardio
+
+Day 1 - Full Body
+Push-ups - 3x12
+Squats - 3x10
+Plank - 3x30 sec
+
+Day 2 - Cardio
+Jump rope - 10 min
+Running - 15 min
+
+Day 3 - Strength
+Dumbbell curls - 3x10
+Lunges - 3x12
+
+
